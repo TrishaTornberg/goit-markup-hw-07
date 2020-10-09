@@ -1,6 +1,6 @@
+@import './base/common';
 @import './_utils/variables.scss';
-@import './_components/logo.scss';
-@import './_base/common.scss';
+@import './components/logo';
 @import './_components/section.scss';
 @import './_components/navigation.scss';
 @import './_components/contacts-header.scss';
